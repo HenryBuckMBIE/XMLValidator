@@ -1,0 +1,517 @@
+Test Report Generated Using Automated Test Suite 2020-11-16
+-----------------------------------------------------------
+Test 1
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\AUNZ-R-001.xml
+Expected Result : id="AUNZ-R-001"
+Actual Result :                        id="AUNZ-R-001"
+Test Result : This Test Passed
+Test 2
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\AUNZ-R-002.xml
+Expected Result : id="AUNZ-R-002"
+Actual Result :                        id="AUNZ-R-002"
+Test Result : This Test Passed
+Test 3
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\AUNZ-R-004.xml
+Expected Result : id="AUNZ-R-004"
+Actual Result :                        id="AUNZ-R-004"
+Test Result : This Test Passed
+Test 4
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\AUNZ-R-005.xml
+Expected Result : id="AUNZ-R-005"
+Actual Result :                        id="AUNZ-R-005"
+Test Result : This Test Passed
+Test 5
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\AUNZ-R-006.xml
+Expected Result : id="AUNZ-R-006"
+Actual Result :                        id="AUNZ-R-006"
+Test Result : This Test Passed
+Test 6
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-01.xml
+Expected Result : id="BR-01"
+Actual Result :                        id="BR-01"
+Test Result : This Test Passed
+Test 7
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-02.xml
+Expected Result : id="BR-02"
+Actual Result :                        id="BR-02"
+Test Result : This Test Passed
+Test 8
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-03.xml
+Expected Result : id="BR-03"
+Actual Result :                        id="BR-03"
+Test Result : This Test Passed
+Test 9
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-04.xml
+Expected Result : id="BR-04"
+Actual Result :                        id="BR-04"
+Test Result : This Test Passed
+Test 10
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-05.xml
+Expected Result : id="BR-05"
+Actual Result :                        id="BR-05"
+Test Result : This Test Passed
+Test 11
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-06.xml
+Expected Result : id="BR-06"
+Actual Result :                        id="BR-06"
+Test Result : This Test Passed
+Test 12
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-08.xml
+Expected Result : id="BR-08"
+Actual Result :                        id="BR-08"
+Test Result : This Test Passed
+Test 13
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-09.xml
+Expected Result : id="BR-09"
+Actual Result :                        id="BR-09"
+Test Result : This Test Passed
+Test 14
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-29.xml
+Expected Result : id="BR-29"
+Actual Result :                        id="BR-29"
+Test Result : This Test Passed
+Test 15
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-30.xml
+Expected Result : id="BR-30"
+Actual Result :                        id="BR-30"
+Test Result : This Test Passed
+Test 16
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-51.xml
+Expected Result : id="BR-51"
+Actual Result :                        id="BR-51"
+Test Result : This Test Passed
+Test 17
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-52.xml
+Expected Result : id="BR-52"
+Actual Result :                        id="BR-52"
+Test Result : This Test Passed
+Test 18
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-55.xml
+Expected Result : id="BR-55"
+Actual Result :                        id="BR-55"
+Test Result : This Test Passed
+Test 19
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-62.xml
+Expected Result : id="BR-62"
+Actual Result :                        id="BR-62"
+Test Result : This Test Passed
+Test 20
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-63.xml
+Expected Result : id="BR-63"
+Actual Result :                        id="BR-63"
+Test Result : This Test Passed
+Test 21
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-66.xml
+Expected Result : id="BR-66"
+Actual Result :                        id="BR-66"
+Test Result : This Test Passed
+Test 22
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-67.xml
+Expected Result : id="BR-67"
+Actual Result :                        id="BR-67"
+Test Result : This Test Passed
+Test 23
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-01.xml
+Expected Result : id="BR-CL-01"
+Actual Result :                        id="BR-CL-01"
+Test Result : This Test Passed
+Test 24
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-04.xml
+Expected Result : id="BR-CL-04"
+Actual Result :                        id="BR-CL-04"
+Test Result : This Test Passed
+Test 25
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-05.xml
+Expected Result : id="BR-CL-05"
+Actual Result :                        id="BR-CL-05"
+Test Result : This Test Passed
+Test 26
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-06-AUNZ.xml
+Expected Result : id="BR-CL-06-AUNZ"
+Actual Result :                        id="BR-CL-06-AUNZ"
+Test Result : This Test Passed
+Test 27
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-10.xml
+Expected Result : id="BR-CL-10"
+Actual Result :                        id="BR-CL-10"
+Test Result : This Test Passed
+Test 28
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-11.xml
+Expected Result : id="BR-CL-11"
+Actual Result :                        id="BR-CL-11"
+Test Result : This Test Passed
+Test 29
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-14.xml
+Expected Result : id="BR-CL-14"
+Actual Result :                        id="BR-CL-14"
+Test Result : This Test Passed
+Test 30
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-16.xml
+Expected Result : id="BR-CL-16"
+Actual Result :                        id="BR-CL-16"
+Test Result : This Test Passed
+Test 31
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\Valid01.xml
+Expected Result : No Error Found
+Actual Result : No Error Found
+Test Result : Test is not expected to find an error - check using Validex
+Test 32
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-17.xml
+Expected Result : id="BR-CL-17"
+Actual Result :                        id="BR-CL-17"
+Test Result : This Test Passed
+Test 33
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CL-24.xml
+Expected Result : id="BR-CL-24"
+Actual Result :                        id="BR-CL-24"
+Test Result : This Test Passed
+Test 34
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CO-03-AUNZ.xml
+Expected Result : id="BR-CO-03-AUNZ"
+Actual Result :                        id="BR-CO-03-AUNZ"
+Test Result : This Test Passed
+Test 35
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CO-19.xml
+Expected Result : id="BR-CO-19"
+Actual Result :                        id="BR-CO-19"
+Test Result : This Test Passed
+Test 36
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-CO-25.xml
+Expected Result : id="BR-CO-25"
+Actual Result :                        id="BR-CO-25"
+Test Result : This Test Passed
+Test 37
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\BR-S-08-AUNZ.xml
+Expected Result : id="BR-S-08-AUNZ"
+Actual Result :                        id="BR-S-08-AUNZ"
+Test Result : This Test Passed
+Test 38
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-COMMON-R040.xml
+Expected Result : id="PEPPOL-COMMON-R040"
+Actual Result :                        id="PEPPOL-COMMON-R040"
+Test Result : This Test Passed
+Test 39
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-COMMON-R040.xml
+Expected Result : id="PEPPOL-COMMON-R040"
+Actual Result :                        id="PEPPOL-COMMON-R040"
+Test Result : This Test Passed
+Test 40
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-CL001.xml
+Expected Result : id="PEPPOL-EN16931-CL001"
+Actual Result :                        id="PEPPOL-EN16931-CL001"
+Test Result : This Test Passed
+Test 41
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-CL002.xml
+Expected Result : id="PEPPOL-EN16931-CL002"
+Actual Result :                        id="PEPPOL-EN16931-CL002"
+Test Result : This Test Passed
+Test 42
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-CL007.xml
+Expected Result : id="PEPPOL-EN16931-CL007"
+Actual Result :                        id="PEPPOL-EN16931-CL007"
+Test Result : This Test Passed
+Test 43
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-CL008.xml
+Expected Result : id="PEPPOL-EN16931-CL008"
+Actual Result :                        id="PEPPOL-EN16931-CL008"
+Test Result : This Test Passed
+Test 44
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-F001.xml
+Expected Result : id="PEPPOL-EN16931-F001"
+Actual Result :                        id="PEPPOL-EN16931-F001"
+Test Result : This Test Passed
+Test 45
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-P0100.xml
+Expected Result : id="PEPPOL-EN16931-P0100"
+Actual Result :                        id="PEPPOL-EN16931-P0100"
+Test Result : This Test Passed
+Test 46
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R001.xml
+Expected Result : id="PEPPOL-EN16931-R001"
+Actual Result :                        id="PEPPOL-EN16931-R001"
+Test Result : This Test Passed
+Test 47
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R002.xml
+Expected Result : id="PEPPOL-EN16931-R002"
+Actual Result :                        id="PEPPOL-EN16931-R002"
+Test Result : This Test Passed
+Test 48
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R003.xml
+Expected Result : id="PEPPOL-EN16931-R003"
+Actual Result :                        id="PEPPOL-EN16931-R003"
+Test Result : This Test Passed
+Test 49
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R004-AUNZ.xml
+Expected Result : id="PEPPOL-EN16931-R004-AUNZ"
+Actual Result :                        id="PEPPOL-EN16931-R004-AUNZ"
+Test Result : This Test Passed
+Test 50
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R006.xml
+Expected Result : id="PEPPOL-EN16931-R006"
+Actual Result :                        id="PEPPOL-EN16931-R006"
+Test Result : This Test Passed
+Test 51
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R055-AUNZ.xml
+Expected Result : id="PEPPOL-EN16931-R055-AUNZ"
+Actual Result :                        id="PEPPOL-EN16931-R055-AUNZ"
+Test Result : This Test Passed
+Test 52
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R007.xml
+Expected Result : id="PEPPOL-EN16931-R007"
+Actual Result :                        id="PEPPOL-EN16931-R007"
+Test Result : This Test Passed
+Test 53
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R008.xml
+Expected Result : id="PEPPOL-EN16931-R008"
+Actual Result :                        id="PEPPOL-EN16931-R008"
+Test Result : This Test Passed
+Test 54
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R010.xml
+Expected Result : id="PEPPOL-EN16931-R010"
+Actual Result :                        id="PEPPOL-EN16931-R010"
+Test Result : This Test Passed
+Test 55
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R020.xml
+Expected Result : id="PEPPOL-EN16931-R020"
+Actual Result :                        id="PEPPOL-EN16931-R020"
+Test Result : This Test Passed
+Test 56
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R051-AUNZ.xml
+Expected Result : id="PEPPOL-EN16931-R051-AUNZ"
+Actual Result :                        id="PEPPOL-EN16931-R051-AUNZ"
+Test Result : This Test Passed
+Test 57
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R110.xml
+Expected Result : id="PEPPOL-EN16931-R110"
+Actual Result :                        id="PEPPOL-EN16931-R110"
+Test Result : This Test Passed
+Test 58
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\PEPPOL-EN16931-R120.xml
+Expected Result : id="PEPPOL-EN16931-R120"
+Actual Result :                        id="PEPPOL-EN16931-R120"
+Test Result : This Test Passed
+Test 59
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\Valid01.xml
+Expected Result : No Error Found
+Actual Result : No Error Found
+Test Result : Test is not expected to find an error - check using Validex
+Test 60
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-DT-06.xml
+Expected Result : id="UBL-DT-06"
+Actual Result :                        id="UBL-DT-06"
+Test Result : This Test Passed
+Test 61
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-DT-07.xml
+Expected Result : id="UBL-DT-07"
+Actual Result :                        id="UBL-DT-07"
+Test Result : This Test Passed
+Test 62
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-CR-666.xml
+Expected Result : id="UBL-CR-666"
+Actual Result :                        id="UBL-CR-666"
+Test Result : This Test Passed
+Test 63
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-CR-673.xml
+Expected Result : id="UBL-CR-673"
+Actual Result :                        id="UBL-CR-673"
+Test Result : This Test Passed
+Test 64
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-01.xml
+Expected Result : id="UBL-SR-01"
+Actual Result :                        id="UBL-SR-01"
+Test Result : This Test Passed
+Test 65
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-02.xml
+Expected Result : id="UBL-SR-02"
+Actual Result :                        id="UBL-SR-02"
+Test Result : This Test Passed
+Test 66
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-03.xml
+Expected Result : id="UBL-SR-03"
+Actual Result :                        id="UBL-SR-03"
+Test Result : This Test Passed
+Test 67
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-04.xml
+Expected Result : id="UBL-SR-04"
+Actual Result :                        id="UBL-SR-04"
+Test Result : This Test Passed
+Test 68
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-05.xml
+Expected Result : id="UBL-SR-05"
+Actual Result :                        id="UBL-SR-05"
+Test Result : This Test Passed
+Test 69
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-06.xml
+Expected Result : id="UBL-SR-06"
+Actual Result :                        id="UBL-SR-06"
+Test Result : This Test Passed
+Test 70
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-07.xml
+Expected Result : id="UBL-SR-07"
+Actual Result :                        id="UBL-SR-07"
+Test Result : This Test Passed
+Test 71
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-08.xml
+Expected Result : id="UBL-SR-08"
+Actual Result :                        id="UBL-SR-08"
+Test Result : This Test Passed
+Test 72
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-09.xml
+Expected Result : id="UBL-SR-09"
+Actual Result :                        id="UBL-SR-09"
+Test Result : This Test Passed
+Test 73
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-10.xml
+Expected Result : id="UBL-SR-10"
+Actual Result :                        id="UBL-SR-10"
+Test Result : This Test Passed
+Test 74
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-10.xml
+Expected Result : id="UBL-SR-10"
+Actual Result :                        id="UBL-SR-10"
+Test Result : This Test Passed
+Test 75
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-12-AUNZ.xml
+Expected Result : id="UBL-SR-12-AUNZ"
+Actual Result :                        id="UBL-SR-12-AUNZ"
+Test Result : This Test Passed
+Test 76
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-14.xml
+Expected Result : id="UBL-SR-14"
+Actual Result :                        id="UBL-SR-14"
+Test Result : This Test Passed
+Test 77
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-15.xml
+Expected Result : id="UBL-SR-15"
+Actual Result :                        id="UBL-SR-15"
+Test Result : This Test Passed
+Test 78
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-16.xml
+Expected Result : id="UBL-SR-16"
+Actual Result :                        id="UBL-SR-16"
+Test Result : This Test Passed
+Test 79
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-16.xml
+Expected Result : id="UBL-SR-16"
+Actual Result :                        id="UBL-SR-16"
+Test Result : This Test Passed
+Test 80
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-18-AUNZ.xml
+Expected Result : id="UBL-SR-18-AUNZ"
+Actual Result :                        id="UBL-SR-18-AUNZ"
+Test Result : This Test Passed
+Test 81
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-19.xml
+Expected Result : id="UBL-SR-19"
+Actual Result :                        id="UBL-SR-19"
+Test Result : This Test Passed
+Test 82
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-20.xml
+Expected Result : id="UBL-SR-20"
+Actual Result :                        id="UBL-SR-20"
+Test Result : This Test Passed
+Test 83
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-21.xml
+Expected Result : id="UBL-SR-21"
+Actual Result :                        id="UBL-SR-21"
+Test Result : This Test Passed
+Test 84
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-24.xml
+Expected Result : id="UBL-SR-24"
+Actual Result :                        id="UBL-SR-24"
+Test Result : This Test Passed
+Test 85
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-25.xml
+Expected Result : id="UBL-SR-25"
+Actual Result :                        id="UBL-SR-25"
+Test Result : This Test Passed
+Test 86
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-26.xml
+Expected Result : id="UBL-SR-26"
+Actual Result :                        id="UBL-SR-26"
+Test Result : This Test Passed
+Test 87
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-28.xml
+Expected Result : id="UBL-SR-28"
+Actual Result :                        id="UBL-SR-28"
+Test Result : This Test Passed
+Test 88
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\Valid01.xml
+Expected Result : No Error Found
+Actual Result : No Error Found
+Test Result : Test is not expected to find an error - check using Validex
+Test 89
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-33.xml
+Expected Result : id="UBL-SR-33"
+Actual Result :                        id="UBL-SR-33"
+Test Result : This Test Passed
+Test 90
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-34.xml
+Expected Result : id="UBL-SR-34"
+Actual Result :                        id="UBL-SR-34"
+Test Result : This Test Passed
+Test 91
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-35.xml
+Expected Result : id="UBL-SR-35"
+Actual Result :                        id="UBL-SR-35"
+Test Result : This Test Passed
+Test 92
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-36.xml
+Expected Result : id="UBL-SR-36"
+Actual Result :                        id="UBL-SR-36"
+Test Result : This Test Passed
+Test 93
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-36.xml
+Expected Result : id="UBL-SR-36"
+Actual Result :                        id="UBL-SR-36"
+Test Result : This Test Passed
+Test 94
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-39.xml
+Expected Result : id="UBL-SR-39"
+Actual Result :                        id="UBL-SR-39"
+Test Result : This Test Passed
+Test 95
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-40.xml
+Expected Result : id="UBL-SR-40"
+Actual Result :                        id="UBL-SR-40"
+Test Result : This Test Passed
+Test 96
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-48.xml
+Expected Result : id="UBL-SR-48"
+Actual Result :                        id="UBL-SR-48"
+Test Result : This Test Passed
+Test 97
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-49.xml
+Expected Result : id="UBL-SR-49"
+Actual Result :                        id="UBL-SR-49"
+Test Result : This Test Passed
+Test 98
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-50.xml
+Expected Result : id="UBL-SR-50"
+Actual Result :                        id="UBL-SR-50"
+Test Result : This Test Passed
+Test 99
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-46.xml
+Expected Result : id="UBL-SR-46"
+Actual Result :                        id="UBL-SR-46"
+Test Result : This Test Passed
+Test 100
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-SR-47.xml
+Expected Result : id="UBL-SR-47"
+Actual Result :                        id="UBL-SR-47"
+Test Result : This Test Passed
+Test 101
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\UBL-CR-412.xml
+Expected Result : id="UBL-CR-412"
+Actual Result :                        id="UBL-CR-412"
+Test Result : This Test Passed
+Test 102
+File Tested : C:\e-Invoice\XMLValidator\XMLValidator\TestFiles\AUCreditnote.xml
+Expected Result : id="AUCreditnote"
+Actual Result : No Error Found
+Test Result : This Test Failed
+***********************************
+Passed 101
+Failed 0
+Total Tests 102
+***********************************
